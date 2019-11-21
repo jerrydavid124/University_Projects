@@ -17,3 +17,5 @@ Usage: ./bmp.c [-o file] [-i] [-d] [-R] [-r N] [-g N] [-b N] FILE
 This is the general usage info on the file
 Also you need to add the apue.3e files. These files allow for error checking. 
 You can find these files here http://www.apuebook.com/code3e.html
+
+JAVA VS C++ VS PYTHON: An in depth report on the various differences between these programming languages such as polymorphism, modularity, abstraction, readability & maintenance, security, robustness, efficiency and platform independence
