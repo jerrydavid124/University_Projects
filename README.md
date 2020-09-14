@@ -19,3 +19,5 @@ Also you need to add the apue.3e files. These files allow for error checking.
 You can find these files here http://www.apuebook.com/code3e.html
 
 JAVA VS C++ VS PYTHON: An in depth report on the various differences between these programming languages such as polymorphism, modularity, abstraction, readability & maintenance, security, robustness, efficiency and platform independence
+
+Classification of DIDSON Sonar Images with Convolutional Neural Networks: Group project where I contributed by implementing a tweked version of VGG16 to identify different species of fish in sonar images collected using MATLAB software. 
